@@ -4,12 +4,6 @@
 
 ---
 
-## 📸 Overview
-
-Versepedia is a feature-rich music lyrics platform designed to give users an immersive experience browsing songs, artists, and music charts. The app features a clean UI with a built-in **dark mode toggle** for a personalized experience.
-
----
-
 ## ✨ Features
 
 ### 🏠 Home / Featured Page
@@ -34,7 +28,7 @@ Versepedia is a feature-rich music lyrics platform designed to give users an imm
   - Their most **popular songs**
 
 ### 🔍 Search
-- Search for any **song or lyrics** directly from the app
+- Search for any **song** directly from the search bar
 
 ### ❤️ Favourites
 - **Save your favourite songs** for quick access later
@@ -74,14 +68,7 @@ Versepedia/
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-Make sure you have the following installed:
-- [Node.js](https://nodejs.org/) (v16 or above)
-- npm (comes with Node.js)
-
-### Installation & Running Locally
+### 🚀 Installation & Running Locally
 
 ```bash
 # 1. Clone the repository
@@ -103,11 +90,9 @@ Then open your browser and go to: **http://localhost:5173**
 
 ## 👤 Developer
 
-**Rohan Nayak**
-- GitHub: [@rohannayak032](https://github.com/rohannayak032)
+**Rohan Gopal Nayak**
+- Register Number: 24BYB0132
 
 ---
-
-## 📄 License
 
 This project was developed as part of a Web Programming course assignment.
