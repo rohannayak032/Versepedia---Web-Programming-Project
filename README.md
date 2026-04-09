@@ -1,5 +1,6 @@
 # 🎵 Versepedia — Music Lyrics & Artist Encyclopedia
 
+https://versepedia.vercel.app/
 A modern, responsive music lyrics web application built with React and Vite.
 
 Versepedia allows users to explore trending songs, read full lyrics, discover artists, and stay updated with the latest music news — all in one place.
